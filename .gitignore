@@ -1,2 +1,5 @@
 node_modules/
 package*.json
+db/
+db.zip
+db.js
