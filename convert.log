@@ -1,0 +1,13 @@
+[2021-08-18T15:05:18.388] [DEBUG] Convert.js - {
+  cmd: 'get',
+  reqid: 'ios-iPhone-hiennv@lumi.biz-1621850078636-122',
+  objects: [ { type: 'msg', data: [Array] } ]
+}
+[2021-08-18T15:05:18.389] [INFO] Convert.js - Unknow message
+[2021-08-18T15:06:13.199] [INFO] Convert.js - Event: Received statusCode message
+[2021-08-18T15:06:13.215] [DEBUG] Convert.js - {
+  cmd: 'get',
+  reqid: 'ios-iPhone-hiennv@lumi.biz-1621850078636-122',
+  objects: [ { type: 'msg', data: [Array] } ]
+}
+[2021-08-18T15:06:13.223] [INFO] Convert.js - Unknow message
